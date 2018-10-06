@@ -666,6 +666,11 @@
       "description": "LinkedIn's Official Style Guide.",
       "homepage": "https://github.com/linkedin/swift-style-guide"
     }, {
+      "title": "Google",
+      "category": "style-guides",
+      "description": "Google's Official Style Guide.",
+      "homepage": "https://google.github.io/swift/"
+    }, {
       "title": "swift-mode",
       "category": "emacs",
       "description": "Emacs support, including partial flycheck error support.",
